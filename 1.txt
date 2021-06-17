@@ -1,0 +1,10 @@
+1 new folder demo
+2 new repo ..... git exercesice
+3 add few files  demo1 to demo5
+   git init
+   git add .
+   git status
+   git commite -m " add demo files"
+   git branch -m main
+   git remote add origin git@github.com:ashishvalu/Git-Exercesice.git
+   git push origin main
